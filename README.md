@@ -1,6 +1,6 @@
 ### Introduction
 
-This is the repo for paper Discovering Interpretable Algorithms by Decompiling Transformers to RASP.
+This is the repo for paper [Discovering Interpretable Algorithms by Decompiling Transformers to RASP](http://arxiv.org/abs/2602.08857).
 
 ### Scripts
 
